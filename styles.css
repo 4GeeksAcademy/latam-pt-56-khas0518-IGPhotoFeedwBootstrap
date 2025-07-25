@@ -1,0 +1,14 @@
+
+
+
+.grid-1x1 .row {
+    display: flex;
+    justify-content: center;
+}
+
+.grid-1x1 .col {
+    display: flex;
+    justify-content: center;
+    max-width: 500px;
+    flex: 0 0 100%;
+}
